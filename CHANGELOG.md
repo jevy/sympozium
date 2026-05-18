@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.35](https://github.com/sympozium-ai/sympozium/compare/v0.10.34...v0.10.35) (2026-05-18)
+
+
+### Features
+
+* topology keyboard navigation and demo gif ([2d8b417](https://github.com/sympozium-ai/sympozium/commit/2d8b4176677ee0967ba85f527386d361cff89a02))
+
 ## [0.10.34](https://github.com/sympozium-ai/sympozium/compare/v0.10.33...v0.10.34) (2026-05-18)
 
 
